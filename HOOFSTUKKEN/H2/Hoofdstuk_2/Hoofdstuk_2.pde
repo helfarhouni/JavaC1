@@ -1,0 +1,2 @@
+print("HOI");
+println("HOI")
